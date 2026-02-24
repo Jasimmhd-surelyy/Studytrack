@@ -1,4 +1,4 @@
-# 📚 Adaptive Revision Planner
+#  Adaptive Revision Planner
 
 A complete, all in one study tracker built in Excel for students who want to centralize their academic planning and performance monitoring. It connects subjects, exam timelines, daily study logs, and grade outcomes into a single organized workflow.
 
@@ -14,13 +14,13 @@ Most students plan randomly; they underestimate hard subjects and overestimate e
 
 | Sheet | Description |
 |---|---|
-| 👋 Start Here | Introduction and instructions for using the planner |
-| 📚 Subjects | List your subjects, professor, target grade, status, and notes |
-| 📅 Exam Dates | Log upcoming exams with type, date, days away (auto-calculated), prep status, and notes |
-| 📖 Study Log | Record individual study sessions; auto-calculates total hours, session count, this week's hours, and best session |
-| 🗓 Study Plan | Weekly study schedule with planned hours auto-tallied |
-| 📊 Grades | Track assignment, quiz, midterm, and final scores per subject; auto-calculates letter grades and GPA |
-| 📈 Dashboard | High-level summary of subjects, hours logged, upcoming exams, sessions, GPA, and weekly hours — all pulled automatically from other sheets |
+|  Start Here | Introduction and instructions for using the planner |
+|  Subjects | List your subjects, professor, target grade, status, and notes |
+|  Exam Dates | Log upcoming exams with type, date, days away (auto-calculated), prep status, and notes |
+|  Study Log | Record individual study sessions; auto-calculates total hours, session count, this week's hours, and best session |
+| Study Plan | Weekly study schedule with planned hours auto-tallied |
+|  Grades | Track assignment, quiz, midterm, and final scores per subject; auto-calculates letter grades and GPA |
+|  Dashboard | High-level summary of subjects, hours logged, upcoming exams, sessions, GPA, and weekly hours — all pulled automatically from other sheets |
 
 ---
 
@@ -36,13 +36,13 @@ Most students plan randomly; they underestimate hard subjects and overestimate e
 
 ## How to Use
 
-1. Open the **👋 Start Here** tab and read the overview.
-2. Fill in your subjects in **📚 Subjects**.
-3. Add upcoming exams in **📅 Exam Dates** — days remaining will calculate automatically.
-4. Log each study session in **📖 Study Log**.
-5. Plan your weekly schedule in **🗓 Study Plan**.
-6. Enter assessment scores in **📊 Grades** to track your GPA.
-7. Check the **📈 Dashboard** anytime for a full summary of your academic progress.
+1. Open the **Start Here** tab and read the overview.
+2. Fill in your subjects in ** Subjects**.
+3. Add upcoming exams in **Exam Dates** — days remaining will calculate automatically.
+4. Log each study session in ** Study Log**.
+5. Plan your weekly schedule in ** Study Plan**.
+6. Enter assessment scores in ** Grades** to track your GPA.
+7. Check the ** Dashboard** anytime for a full summary of your academic progress.
 
 ---
 
